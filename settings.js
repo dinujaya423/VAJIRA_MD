@@ -17,3 +17,4 @@ STATUS_REPLY_MESSAGE: '𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄�
 ALIVE:  process.env.ALIVE  || '> VAJIRA MD'  ,    
 DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO        
 };
+
